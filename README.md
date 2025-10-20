@@ -81,7 +81,7 @@ Returns profile information with a random cat fact.
 
 ## Deployment
 
-This API is deployed at: `[Your deployed URL]`
+This API is deployed at: `hngstage0-production-002a.up.railway.app`
 
 ## Author
 
