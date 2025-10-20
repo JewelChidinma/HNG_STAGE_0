@@ -23,7 +23,6 @@ app.get('/me', async (req, res) => {
    
     }
 
-
     const timestamp = new Date().toISOString();
 
     const profileData = {
