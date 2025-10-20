@@ -11,7 +11,7 @@ A RESTful API that returns profile information with dynamic cat facts.
 
 1. Clone the repository:
 ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/JewelChidinma/HNG_STAGE_0.git
    cd profile-api
 ```
 
