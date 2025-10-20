@@ -11,7 +11,7 @@ A RESTful API that returns profile information with dynamic cat facts.
 
 1. Clone the repository:
 ```bash
-   git clone [https://github.com/JewelChidinma/HNG_STAGE_0.git]
+   git clone https://github.com/JewelChidinma/HNG_STAGE_0.git
    cd profile-api
 ```
 
@@ -40,11 +40,11 @@ For development (auto-restart on changes):
 npm run dev
 ```
 
-The API will be available at: `http://localhost:3000/me`
+The API will be available at: http://localhost:3000/me
 
 ## Testing
 
-Visit `http://localhost:3000/me` in your browser or use curl:
+Visit http://localhost:3000/me in your browser or use curl:
 ```bash
 curl http://localhost:3000/me
 ```
@@ -81,7 +81,7 @@ Returns profile information with a random cat fact.
 
 ## Deployment
 
-This API is deployed at: `hngstage0-production-002a.up.railway.app`
+This API is deployed at: hngstage0-production-002a.up.railway.app
 
 ## Author
 
